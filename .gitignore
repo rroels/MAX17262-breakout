@@ -1,0 +1,9 @@
+libs/53261-0271/
+libs/MAX17262/
+*-backups
+fp-info-cache
+*~
+.DS_Store
+*.lck
+\#auto_saved_files\#
+_autosave-*
